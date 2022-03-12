@@ -7,7 +7,7 @@
 
 [![red-Pen9uin's GitHub stats](https://github-readme-stats.vercel.app/api?username=red-Pen9uin)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=red-Pen9uin&exclude_repo=roll20CustomSheet)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=red-Pen9uin&exclude_repo=roll20CustomSheet,red-pen9uin.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
