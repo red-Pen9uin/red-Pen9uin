@@ -5,8 +5,9 @@
 
 ### Hi there 👋
 
-![red-Pen9uin's GitHub stats](https://github-readme-stats.vercel.app/api?username=red-Pen9uin&show_icons=true&theme=nightowl)(https://github.com/red-Pen9uin/)<br/>
-![red-Pen9uin's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=red-Pen9uin&show_icons=true&theme=nightowl&layout=compact)
+[![red-Pen9uin's GitHub stats](https://github-readme-stats.vercel.app/api?username=red-Pen9uin)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=red-Pen9uin&exclude_repo=roll20CustomSheet)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
