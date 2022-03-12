@@ -1,4 +1,18 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fred-Pen9uin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![GitHub followers](https://img.shields.io/github/followers/red-Pen9uin?style=social)
+
+<br>
+
 ### Hi there 👋
+
+![red-Pen9uin's GitHub stats](https://github-readme-stats.vercel.app/api?username=red-Pen9uin&show_icons=true&theme=nightowl)(https://github.com/red-Pen9uin/)<br/>
+![red-Pen9uin's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=red-Pen9uin&show_icons=true&theme=nightowl&layout=compact)
+
+<br>
+
+### 📬 Contacts
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:red.pen9uin@gmail.com)](mailto:red.pen9uin@gmail.com)
 
 <!--
 **red-Pen9uin/red-Pen9uin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
